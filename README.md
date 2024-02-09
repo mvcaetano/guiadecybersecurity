@@ -192,7 +192,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 - [HackXpert](https://hackxpert.com/) - Laboratórios e treinamentos gratuitos.
 - [TryHackMe](https://tryhackme.com/) - Exercícios práticos e laboratórios.
-- [CyberSecLabs](https://www.cyberseclabs.co.uk/) - Laboratórios de treinamento de alta qualidade.
 - [Cybrary](https://www.cybrary.it/) - Vídeos, laboratórios e exames práticos.
 - [LetsDefend](https://letsdefend.io/) - Plataforma de treinamento da blue team.
 - [Root Me](https://www.root-me.org/) - Mais de 400 desafios de cyber security.
